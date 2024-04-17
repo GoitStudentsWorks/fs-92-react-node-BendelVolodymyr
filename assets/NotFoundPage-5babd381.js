@@ -1,0 +1,1 @@
+import{j as t}from"./index-b5014c37.js";const e="/fs-92-react-node-BendelVolodymyr/assets/uG73t6y3S6obzxxr4w-66dc3bf5.gif",s=()=>t.jsx(t.Fragment,{children:t.jsx("img",{style:{display:"flex",alignItems:"center",margin:"auto",width:"500px",height:"auto"},src:e,alt:"NotFound"})});export{s as default};
