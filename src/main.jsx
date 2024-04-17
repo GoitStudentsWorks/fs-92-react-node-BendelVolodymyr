@@ -14,7 +14,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Provider store={store}>
       <PersistGate loading={null} persistor={persistor}>
-        <BrowserRouter basename="/Smart-Foxes-WaterTracker">
+        <BrowserRouter basename="/fs-92-react-node-BendelVolodymyr">
           <ModalProvider>
             <GlobalStyle />
             <App />
