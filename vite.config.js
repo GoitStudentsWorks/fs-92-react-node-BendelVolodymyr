@@ -12,5 +12,5 @@ export default defineConfig({
       assets: '/src/assets',
     },
   },
-  base: '/Smart-Foxes-WaterTracker/',
+  base: '/fs-92-react-node-BendelVolodymyr/',
 });
